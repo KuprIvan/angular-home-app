@@ -15,7 +15,6 @@ import {HousingLocationComponent} from "./housing-location/housing-location.comp
     AppRoutingModule,
     HomeComponent,
     HousingLocationComponent
-
   ],
   providers: [],
   bootstrap: [AppComponent]
